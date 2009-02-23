@@ -28,7 +28,7 @@ long_description = (
     )
 setup(name='collective.sphinx.includedoc',
       version=version,
-      description="Sphinx extension for includingi doctests",
+      description="Sphinx extension for including doctests",
       long_description=long_description,
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
