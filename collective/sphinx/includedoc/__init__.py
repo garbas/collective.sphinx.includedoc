@@ -72,5 +72,5 @@ def _resolve_dotted_name(dotted):
     return getattr(thing, name)
 
 def setup(app):
-    app.add_directive('includedoc', IncludeDocDirective,
-                      0, (1, 0, 1) )
+    app.add_directive('includedoc', IncludeDocDirective)
+                      

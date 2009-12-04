@@ -1,4 +1,9 @@
-0.1 (xxxx-xx-xx)
-==================
+0.2 (unreleased)
+================
+
+- make it work with Sphinx 0.6.3 [Jens W. Klein]
+
+0.1 (2008-11-11 11)
+===================
 
  - Created recipe with ZopeSkel [Rok Garbas].
